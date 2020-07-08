@@ -13,9 +13,6 @@
   * Why is it important:
   * When is it needed: 
 * **Deliverables**:
-
-
-
 | #   | Item      | Definition                    | Outcome | Format | Cadence | Data Source & Elements | Notes |
 | --- | --------- | ----------------------------- | ------- | ------ | ------- | ---------------------- | ----- |
 | 1   | wait time | wt = room time - checkin time | <2 min | tableau | daily | epic - table? fields? | ----- |
