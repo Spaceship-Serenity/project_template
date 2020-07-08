@@ -10,7 +10,17 @@
   * What data science solutions are we trying to build?
   * What will we do?
   * How is it going to be consumed by the customer?
+  * Why is it important:
+  * When is it needed: 
 * **Deliverables**:
+
+
+
+| #   | Item      | Definition                    | Outcome | Format | Cadence | Data Source & Elements | Notes |
+| --- | --------- | ----------------------------- | ------- | ------ | ------- | ---------------------- | ----- |
+| 1   | wait time | wt = room time - checkin time | <2 min | tableau | daily | epic - table? fields? | ----- |
+| 2   | b         | ----------                    | ------- | excel | ------- | ---------------------- | ----- |
+
   * Metric or KPI:
   * Format: - tableau dashboard? excel report?
   * Cadence: - Daily, weekly, monthly
@@ -49,6 +59,10 @@ Metric/KPI Goal
 * Only include this section if needed.
 
 ## Plan
+- resource
+- timeline
+- validation
+
 * Phases (milestones), timeline, short description of what we'll do in each phase.
   * Business Understanding - Define objectives; Identify data sources
   * Data Aquisition and Understanding - Ingest data; Explore data; Enrich data
@@ -74,8 +88,4 @@ Metric/KPI Goal
   * Make a 1 slide diagram showing the end to end data flow and decision architecture
     * If there is a substantial change in the customer's business workflow, make a before/after diagram showing the data flow.
 
-## Communication
-* How will we keep in touch? Weekly meetings?
-* Who are the contact persons on both sides?
-  * Analytics POC - 
-  * Client POC - 
+
