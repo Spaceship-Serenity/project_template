@@ -6,18 +6,20 @@
 * What business problems are we trying to address?
 
 ## Scope
-* Overview
+* **Overview**:
   * What data science solutions are we trying to build?
   * What will we do?
   * How is it going to be consumed by the customer?
-* Deliverables:
-  * Format - tableau dashboard? excel report?
-  * Cadence - Daily, weekly, monthly
-* Limitations: 
-  *
-* Assumptions:
+* **Deliverables**:
+  * Metric or KPI:
+  * Format: - tableau dashboard? excel report?
+  * Cadence: - Daily, weekly, monthly
+  * Limitations: 
+* Target/Outcome
+Metric/KPI Goal
+  * Assumptions:
   * All video visit vendors track and report wait times with the same methodology
-* Exclusions:
+  * Exclusions:
   * 
 * Project Size:
 * Delivery Date:
